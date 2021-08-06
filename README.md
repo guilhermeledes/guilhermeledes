@@ -19,11 +19,9 @@
 
 <br />
 
-<div> 
-  <a href="https://instagram.com/guilhermeledes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ledes.guilherme@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/guilhermeledes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ [![Linkedin Badge](https://img.shields.io/badge/-guilhermeledes-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeledes)](www.linkedin.com/in/guilhermeledes) 
+[![Gmail Badge](https://img.shields.io/badge/-ledes.guilherme@gmail.com-ea4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ledes.guilherme@gmail.com)](mailto:ledes.guilherme@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/-guilhermeledes-d80055?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/guilhermeledes)](www.instagram.com/guilhermeledes) 
+
   
-   ![Snake animation](https://github.com/guilhermeledes/guilhermeledes/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
+![Snake animation](https://github.com/guilhermeledes/guilhermeledes/blob/output/github-contribution-grid-snake.svg)
