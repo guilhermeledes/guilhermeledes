@@ -1,9 +1,9 @@
 ## Hi there 👋🏽 
 ### 🤓 My name is Guilherme Ledes, but you can call me Ledes
-- 👨‍👩‍👧‍👧 I'm a Husband of an incredible woman and father of 2 amazing girls
 - ✝️ Christian
+- 👨‍👩‍👧‍👧 Husband of an incredible woman and father of 2 amazing girls
 - 👨🏽‍🍳 Official family's cooker
-- 🍸 Official friend's bartender
+- 🍸 Official bartender of friends
 - 🥋 BJJ practitioner 💜
 - 🔨 Woodwork lover
 - 👨🏽‍💻 Developer 😍
