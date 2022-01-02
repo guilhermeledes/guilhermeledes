@@ -17,11 +17,8 @@
 
 ## 🛠 Languages and tools:
 <div style="display: inline_block;">
-  <a href="https://github.com/guilhermeledes">
   <img align="center" alt="Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
   <img align="center" alt="Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  
   <img align="center" alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> 
 
@@ -42,23 +39,23 @@
 
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
-  </a>
+  
 </div>
 
 <br />
 
 ## 📚 Books:
-- ✅ The Lean Startup (Eric Ries)
-- ✅ Design Patterns (Erich Gamma; Richard Helm; Ralph Johnson; John Vlissides)
-- ✅ Clean Code (Robert Martin)
-- ✅ Clean Architecture (Robert Martin)
-- 📖 Refactoring (Martin Fowler)
-- ❌ Test Driven Development (Kent Beck)
-- ❌ Domain-Driven Design (Eric Evans)
-- ❌ Patterns of Enterprise Application Architecture (Martin Fowler)
-- ❌ Introduction to Algorithms (Thomas H. Cormen; Charles E. Leiserson; Ronald L. Rivest; Clifford Stein)
+- ✅ [The Lean Startup (Eric Ries)](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6/)
+- ✅ [Design Patterns (Erich Gamma; Richard Helm; Ralph Johnson; John Vlissides)](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+- ✅ [Clean Code (Robert Martin)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/)
+- ✅ [Clean Architecture (Robert Martin)](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/)
+- ✅ [14 Habits of Highly Productive Developers (Zeno Rocha)](https://www.amazon.com/Habits-Highly-Productive-Developers-English-ebook/dp/B08BF74RRG)
+- ✅ [Arquitetura Limpa na Prática (Otavio Lemos)](https://hotmart.com/product/livro-arquitetura-limpa-na-pratica)
+- ✅ [Refactoring (Martin Fowler)](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2/)
+- 📖 [Domain-Driven Design (Eric Evans)](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/)
+- ❌ [Test Driven Development (Kent Beck)](https://www.amazon.com/Test-Driven-Development-Kent-Beck-ebook/dp/B095SQ9WP4)
+- ❌ [Patterns of Enterprise Application Architecture (Martin Fowler)](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook-dp-B008OHVDFM/dp/B008OHVDFM/)
+- ❌ [Introduction to Algorithms (Thomas H. Cormen; Charles E. Leiserson; Ronald L. Rivest; Clifford Stein)](https://www.amazon.com/Introduction-Algorithms-third-Thomas-Cormen-ebook/dp/B08FH8N996/)
 
 <div>
   <br/>
