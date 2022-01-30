@@ -52,6 +52,7 @@
 - ✅ [14 Habits of Highly Productive Developers (Zeno Rocha)](https://www.amazon.com/Habits-Highly-Productive-Developers-English-ebook/dp/B08BF74RRG)
 - ✅ [Arquitetura Limpa na Prática (Otavio Lemos)](https://hotmart.com/product/livro-arquitetura-limpa-na-pratica)
 - ✅ [Refactoring (Martin Fowler)](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2/)
+- ✅ [The Twelve-Factor App (Adam Wiggins)](https://12factor.net/12factor.epub)
 - 📖 [Domain-Driven Design (Eric Evans)](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/)
 - ❌ [Test Driven Development (Kent Beck)](https://www.amazon.com/Test-Driven-Development-Kent-Beck-ebook/dp/B095SQ9WP4)
 - ❌ [Patterns of Enterprise Application Architecture (Martin Fowler)](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook-dp-B008OHVDFM/dp/B008OHVDFM/)
