@@ -71,15 +71,6 @@
 
   <br/>
 
-  <a href="https://code.visualstudio.com/">
-    <img alt="VsCode" title="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </a>
-  <a href="https://www.vim.org/">
-    <img alt="Vim" title="Vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-  </a>
-  
-  <br/>
-
   <a href="https://redis.io/">
     <img alt="Redis" title="Redis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
   </a>
@@ -102,7 +93,16 @@
     <img alt="CSS" title="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   </a>
   
-   <br/>
+  <br/>
+
+  <a href="https://code.visualstudio.com/">
+    <img alt="VsCode" title="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  </a>
+  <a href="https://www.vim.org/">
+    <img alt="Vim" title="Vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
+  </a>
+  
+  <br/>
 
   <a href="https://draculatheme.com/">
     <img alt="Dracula Theme" title="Dracula Theme" height="40" width="40" src="https://draculatheme.com/static/icons/used/pack-1/045-dracula.svg">
