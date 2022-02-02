@@ -54,8 +54,9 @@
 - ✅ [Refactoring (Martin Fowler)](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2/)
 - ✅ [The Twelve-Factor App (Adam Wiggins)](https://12factor.net/12factor.epub)
 - 📖 [Domain-Driven Design (Eric Evans)](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/)
-- ❌ [Test Driven Development (Kent Beck)](https://www.amazon.com/Test-Driven-Development-Kent-Beck-ebook/dp/B095SQ9WP4)
+- ❌ [Monolith to Microservices (Sam Newman)](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook-dp-B081TKSSNN/dp/B081TKSSNN/)
 - ❌ [Patterns of Enterprise Application Architecture (Martin Fowler)](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook-dp-B008OHVDFM/dp/B008OHVDFM/)
+- ❌ [Building Microservices (Sam Newman)](https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT/)
 - ❌ [Introduction to Algorithms (Thomas H. Cormen; Charles E. Leiserson; Ronald L. Rivest; Clifford Stein)](https://www.amazon.com/Introduction-Algorithms-third-Thomas-Cormen-ebook/dp/B08FH8N996/)
 
 <div>
