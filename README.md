@@ -59,11 +59,17 @@
   <a href="https://www.linux.org/">
     <img alt="Linux" title="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   </a>
+  <a href="https://kubernetes.io/">
+    <img alt="Kubernetes" title="Kubernetes" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+  </a>
   <a href="https://travis-ci.org/">
     <img alt="Travis" title="Travis" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg">
   </a>
   <a href="https://codecov.io/">
     <img alt="Codecov" title="Codecov" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codecov/codecov-plain.svg">
+  </a>
+  <a href="https://azure.microsoft.com/">
+    <img alt="Azure" title="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   </a>
   <a href="https://www.heroku.com/">
     <img alt="Heroku" title="Heroku" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
