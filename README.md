@@ -2,7 +2,7 @@
 ### 🤓 My name is Guilherme Ledes, but you can call me Ledes
 - ✝️ Christian
 - 👨‍👩‍👧‍👧 Husband of an incredible woman and father of 2 amazing girls
-- 👨🏽‍🍳 Official family's cooker
+- 👨🏽‍🍳 Official family's cook
 - 🍸 Official bartender of friends
 - 🥋 BJJ practitioner 🤎
 - 🔨 Woodwork lover
