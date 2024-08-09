@@ -4,7 +4,7 @@
 - 👨‍👩‍👧‍👧 Husband of an incredible woman and father of 2 amazing girls
 - 👨🏽‍🍳 Official family's cook
 - 🍸 Official bartender of friends
-- 🥋 BJJ practitioner 🤎
+- 🥋 BJJ ⬛️⬛️⬛️🟥🟥⬛️
 - 🔨 Woodwork lover
 - 👨🏽‍💻 Developer 😍
 
