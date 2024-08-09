@@ -111,7 +111,7 @@
   <br/>
 
   <a href="https://draculatheme.com/">
-    <img alt="Dracula Theme" title="Dracula Theme" height="40" width="40" src="https://draculatheme.com/images/hero/dracula-icon.svg">
+    <img alt="Dracula Theme" title="Dracula Theme" height="40" width="40" src="https://draculatheme.com/icons/used/pack-1/045-dracula.svg">
   </a>
 
 </div>
