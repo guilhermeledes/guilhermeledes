@@ -1,5 +1,5 @@
 ## Hi there 👋🏽 
-### 🤓 My name is Guilherme Ledes, but you can call me Ledes
+### 🤓 My name is Guilherme Ledes, but you can call me Ledes or just Gui
 - ✝️ Christian
 - 👨‍👩‍👧‍👧 Husband of an incredible woman and father of 2 amazing girls
 - 👨🏽‍🍳 Official family's cook
@@ -10,7 +10,11 @@
 
 ## 💬 You can find me:
 
- [![Linkedin Badge](https://img.shields.io/badge/-guilhermeledes-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeledes)](https://www.linkedin.com/in/guilhermeledes) 
+
+ [![Static Badge](https://img.shields.io/badge/-guilhermeledes.dev-f4b406?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiMwZDBmMTEiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzBkMGYxMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjEuNSI%2BPHBhdGggZD0iTTMuMzM4IDE3QTkuOTk2IDkuOTk2IDAgMCAwIDEyIDIyYTkuOTk2IDkuOTk2IDAgMCAwIDguNjYyLTVNMy4zMzggN0E5Ljk5NiA5Ljk5NiAwIDAgMSAxMiAyYTkuOTk2IDkuOTk2IDAgMCAxIDguNjYyIDUiLz48cGF0aCBkPSJNMTMgMjEuOTVzMS40MDgtMS44NTMgMi4yOTUtNC45NU0xMyAyLjA1UzE0LjQwOCAzLjkwMiAxNS4yOTUgN00xMSAyMS45NVM5LjU5MiAyMC4wOTggOC43MDUgMTdNMTEgMi4wNVM5LjU5MiAzLjkwMiA4LjcwNSA3TTkgMTBsMS41IDVsMS41LTVsMS41IDVsMS41LTVNMSAxMGwxLjUgNUw0IDEwbDEuNSA1TDcgMTBtMTAgMGwxLjUgNWwxLjUtNWwxLjUgNWwxLjUtNSIvPjwvZz48L3N2Zz4%3D&link=https%3A%2F%2Fguilhermeledes.dev)
+](https://guilhermeledes.dev)
+ [![Static Badge](https://img.shields.io/badge/-guilhermeledes-0a66c2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiNmZmZmZmYiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTIwLjQ1MiAyMC40NWgtMy41NnYtNS41N2MwLTEuMzI4LS4wMjItMy4wMzYtMS44NS0zLjAzNmMtMS44NTEgMC0yLjEzNCAxLjQ0Ny0yLjEzNCAyLjk0MnY1LjY2NEg5LjM1MlY4Ljk5N2gzLjQxM3YxLjU2NmguMDQ5Yy40NzUtLjkgMS42MzYtMS44NSAzLjM2Ny0xLjg1YzMuNjA1IDAgNC4yNyAyLjM3MSA0LjI3IDUuNDU2djYuMjgxWk01LjMzOSA3LjQzM2EyLjA2MyAyLjA2MyAwIDEgMSAwLTQuMTNhMi4wNjUgMi4wNjUgMCAwIDEgMCA0LjEzWk03LjEyIDIwLjQ1SDMuNTU4VjguOTk3SDcuMTJWMjAuNDVaTTIzIDBIMWExIDEgMCAwIDAtMSAxdjIyYTEgMSAwIDAgMCAxIDFoMjJhMSAxIDAgMCAwIDEtMVYxYTEgMSAwIDAgMC0xLTFaIi8%2BPC9zdmc%2B)
+](https://www.linkedin.com/in/guilhermeledes) 
 [![Gmail Badge](https://img.shields.io/badge/-ledes.guilherme@gmail.com-ea4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ledes.guilherme@gmail.com)](mailto:ledes.guilherme@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/-guilhermeledes-d80055?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/guilhermeledes)](https://www.instagram.com/guilhermeledes) 
 
@@ -108,12 +112,6 @@
     <img alt="Vim" title="Vim" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
   </a>
   
-  <br/>
-
-  <a href="https://draculatheme.com/">
-    <img alt="Dracula Theme" title="Dracula Theme" height="40" width="40" src="https://draculatheme.com/icons/used/pack-1/045-dracula.svg">
-  </a>
-
 </div>
 
 <br />
@@ -127,20 +125,16 @@
 - ✅ [Arquitetura Limpa na Prática (Otavio Lemos)](https://hotmart.com/product/livro-arquitetura-limpa-na-pratica)
 - ✅ [Refactoring (Martin Fowler)](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2/)
 - ✅ [The Twelve-Factor App (Adam Wiggins)](https://12factor.net/12factor.epub)
-- 📖 [Domain-Driven Design (Eric Evans)](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/)
-- ❌ [Monolith to Microservices (Sam Newman)](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook-dp-B081TKSSNN/dp/B081TKSSNN/)
+- ✅ [Domain-Driven Design (Eric Evans)](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG/)
+- 📖 [Monolith to Microservices (Sam Newman)](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform-ebook-dp-B081TKSSNN/dp/B081TKSSNN/)
 - ❌ [Patterns of Enterprise Application Architecture (Martin Fowler)](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook-dp-B008OHVDFM/dp/B008OHVDFM/)
 - ❌ [Building Microservices (Sam Newman)](https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT/)
 - ❌ [Introduction to Algorithms (Thomas H. Cormen; Charles E. Leiserson; Ronald L. Rivest; Clifford Stein)](https://www.amazon.com/Introduction-Algorithms-third-Thomas-Cormen-ebook/dp/B08FH8N996/)
 
-<div>
+<!--div>
   <br/>
   <a href="https://github.com/guilhermeledes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeledes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeledes&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
-<br />
-  
-![Snake animation](https://github.com/guilhermeledes/guilhermeledes/blob/output/github-contribution-grid-snake.svg)
